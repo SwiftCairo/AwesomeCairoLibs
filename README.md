@@ -13,3 +13,5 @@
 ### Messaging
 
 * [MessageToolbar](https://github.com/tareksabry1337/MessageToolbar) - An Elegant drop-in solution for message toolbars includes capturing user's (text/image/voice)
+
+* [Bubbly](https://github.com/meguid/bubbly) - Create the most beautiful and neat Bubbles with zero lines of code.
