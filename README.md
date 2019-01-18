@@ -10,7 +10,6 @@
 * [Dots](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework
 
 ## UI 
-### Messaging
 
 * [MessageToolbar](https://github.com/tareksabry1337/MessageToolbar) - An Elegant drop-in solution for message toolbars includes capturing user's (text/image/voice)
 
