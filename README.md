@@ -5,6 +5,10 @@
 
 * [StorageManager](https://github.com/iAmrSalman/StorageManager) - Safe and easy way to use FileManager as Database
 
+## User management
+
+* [Koosa](https://github.com/mmabdelateef/Koosa) - Declarative Swift framework for Attributed Role-based Access Control management
+
 ## Network
 
 * [Dots](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework
