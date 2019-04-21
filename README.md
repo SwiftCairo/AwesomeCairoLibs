@@ -20,3 +20,6 @@
 * [Bubbly](https://github.com/meguid/bubbly) - Create the most beautiful and neat Bubbles with zero lines of code.
 
 * [GenericTableView](https://github.com/meguid/GenericTableView) - Simple & Dynamic Generic TableView with Examples
+
+* [SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - Drop down menu for iOS
+
